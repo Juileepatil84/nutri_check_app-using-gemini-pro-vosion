@@ -24,5 +24,48 @@ Watch our [detailed tutorial on YouTube](#) to get started and learn how to use 
 
 ### Installation Steps
 1. **Clone the Repository:**
-   ```bash
+   ```cmd
    git clone <repository-url>
+
+2. **Open the Cloned Folder in Visual Studio Code**
+   
+   Navigate to the project directory in VS Code.
+
+4. **Set Up Conda Environment:**
+   ```
+   conda create -n ven python=3.12.4 -y
+   
+   conda activate venv
+
+4. **Create a .env File:**
+
+   Inside your project directory, create a .env file to store your GOOGLE_API_KEY.
+
+6. **Create Requirements File:**
+
+   Create a requirements.txt file to list all necessary Python packages.
+
+7. **Install Required Packages:**
+  ```cmd
+     pip install -r requirements.txt
+
+
+
+
+7. **Create the Streamlit App File:**
+
+Ensure app.py is set up and ready by this step as the dependencies are installed.
+
+8. **Run the Application::**
+   ```cmd
+  conda create -n ven python=3.12.4 -y
+  conda activate venv
+
+   
+
+
+
+
+
+
+
