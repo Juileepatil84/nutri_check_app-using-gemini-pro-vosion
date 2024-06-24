@@ -48,45 +48,15 @@ Watch our [detailed tutorial on YouTube](#) to get started and learn how to use 
 7. **Install Required Packages:**
   ```cmd
      pip install -r requirements.txt
-
-### Installation Steps
-1. **Clone the Repository:**
-   ```cmd
-   git clone <repository-url>
-
-2. **Open the Cloned Folder in Visual Studio Code**
-   
-   Navigate to the project directory in VS Code.
-
-4. **Set Up Conda Environment:**
-   ```
-   conda create -n ven python=3.12.4 -y
-   
-   conda activate venv
-
-4. **Create a .env File:**
-
-   Inside your project directory, create a .env file to store your GOOGLE_API_KEY.
-
-5. **Create Requirements File:**
-
-   Create a requirements.txt file to list all necessary Python packages.
-
-6. **Install Required Packages:**
-  ```cmd
-     pip install -r requirements.txt
-
 ```  
 
-7. **Create the Streamlit App File:**
+8. **Create the Streamlit App File:**
    `
    Ensure app.py is set up and ready by this step as the dependencies are installed. You can also use app.py from cloned repository directly.
 
-8. **Run the Application**
+9. **Run the Application**
    ```
    streamlit run app.py
-
-
 
 ## Usage Instructions
 Navigate to the App
@@ -100,8 +70,6 @@ AI enhances our ability to understand and manage our health through advanced ima
 
 ## Contributions
 Contributions to the Gemini Health App are welcome. Please ensure to follow best practices for code style and updates.
-</details>
-```
 
 
 
