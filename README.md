@@ -1,5 +1,4 @@
-# nutri_check_app-using-gemini-pro-vosion
-# Gemini Health App
+# Nutri Check App
 
 ## Overview
 The Gemini Health App leverages advanced AI technology to enable users to analyze the nutritional content of their meals by simply uploading images. This application aims to assist users in maintaining a balanced diet by providing detailed insights into calorie counts and nutritional information.
