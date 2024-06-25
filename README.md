@@ -21,6 +21,7 @@ Watch our [detailed tutorial on YouTube](https://youtu.be/N-6lU4dC15I) to get st
 ### Prerequisites
 - Python 3.8 or higher
 - Anaconda (recommended for environment management)
+- Gemini API Key - [link to create API Key](https://ai.google.dev/gemini-api/docs/api-key)
 
 ### Installation Steps
 1. **Clone the Repository:**
