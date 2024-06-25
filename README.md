@@ -25,7 +25,7 @@ Watch our [detailed tutorial on YouTube](https://youtu.be/N-6lU4dC15I) to get st
 ### Installation Steps
 1. **Clone the Repository:**
    ```cmd
-   git clone <https://github.com/Juileepatil84/nutri_check_app-using-gemini-pro-vosion.git>
+   git clone https://github.com/Juileepatil84/nutri_check_app-using-gemini-pro-vosion.git
 
 2. **Open the Cloned Folder in Visual Studio Code**
    
@@ -69,7 +69,7 @@ The AI will analyze the image and present a detailed report on the nutritional c
 AI enhances our ability to understand and manage our health through advanced image recognition and data analysis techniques. This application processes visual and textual data to deliver precise nutritional information, enabling users to make informed decisions about their diets and overall health.
 
 ## Contributions
-Contributions to the Gemini Health App are welcome. Please ensure to follow best practices for code style and updates.
+Contributions to the Nutri Check App are welcome. Please ensure to follow best practices for code style and updates.
 
 
 
