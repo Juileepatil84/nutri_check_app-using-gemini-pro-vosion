@@ -25,7 +25,7 @@ Watch our [detailed tutorial on YouTube](https://youtu.be/N-6lU4dC15I) to get st
 ### Installation Steps
 1. **Clone the Repository:**
    ```cmd
-   git clone <repository-url>
+   git clone <https://github.com/Juileepatil84/nutri_check_app-using-gemini-pro-vosion.git>
 
 2. **Open the Cloned Folder in Visual Studio Code**
    
