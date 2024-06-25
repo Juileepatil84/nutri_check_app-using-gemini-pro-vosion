@@ -4,7 +4,7 @@
 The Nutri Check App leverages advanced AI technology to enable users to analyze the nutritional content of their meals by simply uploading images. This application aims to assist users in maintaining a balanced diet by providing detailed insights into calorie counts and nutritional information.
 
 ## YouTube Tutorial
-Watch our [detailed tutorial on YouTube](#) to get started and learn how to use all the features of the Gemini Health App effectively.
+Watch our [detailed tutorial on YouTube](https://youtu.be/N-6lU4dC15I) to get started and learn how to use all the features of the Gemini Health App effectively.
 
 ## Key Features
 - **Nutritional Analysis:** Utilizes AI to identify food items in images and quantifies total calories along with a breakdown of proteins, carbohydrates, and fats.
